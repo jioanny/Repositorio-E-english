@@ -17,11 +17,17 @@ O E-English é destinado a toda e qualquer pessoa que queira aprender ou aperfei
 ## Quem faz parte da equipe e o papel de cada?
 
 Os membros da equipe são: Abyda de Souza, Adam Patrick, Adriano Martes, Alexssandro Lima, Jioanny Dias, Viviane Amorin.
+
 Abyda: Desenvolvimento do livro de funcionalidades;
+
 Adam: Desenvolvimento do livro de funcionalidades;
+
 Adriano: Desenvolvimento da Biblioteca de pdf/livros;
-Alexassandro: Desenvolvimento do Mapa;
+
+Alexassandro: Acessar Tradutor;
+
 Jioanny: Desenvolvimento do QUIZZ;
+
 Viviane: Desenvolvimento das dicas.
 
 ## Como instalar?
